@@ -35,6 +35,10 @@ h1 {
 	font-size: 5em;
 }
 
+.links {
+	text-align: center
+}
+
 .links p {
 	display: inline-block;
 }
