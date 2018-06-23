@@ -34,3 +34,7 @@ img {
 h1 {
 	font-size: 5em;
 }
+
+.links p {
+	display: inline-block;
+}
